@@ -4,13 +4,13 @@ Este arquivo funciona como um documento de "apresentação" do projeto.
 
 Complete o texto, indicando o que você quer fazer:
 
-1) Resumo (3 frases)
+1) Apresentação e informações sobre a linguagem Ruby
 
-2) Objetivo (2 frases)
+2) Apresentar a linguagem Ruby, bem como mostrar particularidades, histórico e curiosidades sobre tal linguagem de programação.
 
-3) Público Alvo (2 frases)
+3) Programadores.
 
-4) Critérios para inclusão de colaboradores (3 critérios)
+4) Gostar de Linguagem Orientada a Objetos, ter pelo menos dois projetos desenvolvidos em Ruby no GitHub, ter pelo menos 5 repositórios no GitHub.
 
 5) Cronograma inicial (datas)
 
