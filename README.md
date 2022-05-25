@@ -1,3 +1,9 @@
+#<h1>Equipe</h1>
+
+  - **Gabriel Cardoso**
+  - **Ricardo de Magalhães Simões**
+  - **Andrey Couto Alves**
+
 # Prof Ricardo de Magalhães Simões
 
 Este arquivo funciona como um documento de "apresentação" do projeto.
