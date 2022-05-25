@@ -1,4 +1,4 @@
-#<h1>Equipe</h1>
+<h1># Equipe</h1>
 
   - **Gabriel Cardoso**
   - **Ricardo de Magalhães Simões**
